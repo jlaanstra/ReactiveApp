@@ -103,6 +103,7 @@
     <Folder Include="Controls\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Collections\GroupingCollectionView.cs" />
     <Compile Include="Platform\CurrentPlatformProvider.cs" />
     <Compile Include="Platform\XamlViewEvents.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

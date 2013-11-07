@@ -105,6 +105,9 @@
     <Folder Include="Controls\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\ReactiveApp.Xaml.Win8\Collections\GroupingCollectionView.cs">
+      <Link>Collections\GroupingCollectionView.cs</Link>
+    </Compile>
     <Compile Include="..\ReactiveApp.Xaml.Win8\Platform\CurrentPlatformProvider.cs">
       <Link>Platform\CurrentPlatformProvider.cs</Link>
     </Compile>
